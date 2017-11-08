@@ -1,0 +1,20 @@
+{
+  "name": "jwt-auth-todo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phytertek/jwt-auth-todo-api.git"
+  },
+  "keywords": ["node, express, mongoose, jwt, bcrypt"],
+  "author": "phytertek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phytertek/jwt-auth-todo-api/issues"
+  },
+  "homepage": "https://github.com/phytertek/jwt-auth-todo-api#readme"
+}
